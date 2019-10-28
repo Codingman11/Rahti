@@ -1,2 +1,0 @@
-# Rahti
-Created with CodeSandbox
